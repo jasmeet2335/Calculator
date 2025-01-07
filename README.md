@@ -12,9 +12,7 @@ This project is a *simple calculator* built with **JavaScript**, **HTML**, and *
 - Include a history of calculations.
 - Improve UI/UX with animations and responsive design.
 
-## **License**
+### Acknowledgement
+This project was inspired by and learned from the [Vanilla JavaScript Calculator](https://github.com/WebDevSimplified/Vanilla-JavaScript-Calculator) repository by Web Dev Simplified.
 
-This project is **open-source** and free to use for *learning* and *personal projects*.
-
-Made with Love by @Jasmeet Kaur
 

@@ -4,6 +4,3 @@ We used Data attributes as well as normal HTML classes to make sure that we are 
 In short, HTML classes were used by CSS and Data Attributes were used for JavaScript. 
 
 Semi-colon is not required in javaScript
-
-
-CONTINUE FROM 29 MINUTES. 

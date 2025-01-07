@@ -1,6 +1,8 @@
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
-    font-family:'Franklin Gothic Medium', sans-serif;
+    font-family: 'Franklin Gothic Medium', sans-serif;
     font-weight: normal;
 }
 
@@ -19,15 +21,15 @@ body {
     grid-template-rows: minmax(120px, auto) repeat(5, 100px);
 }
 
-.calculator-grid > button {
+.calculator-grid>button {
     cursor: pointer;
     font-size: 2rem;
-    border:  1px solid white;
+    border: 1px solid white;
     outline: none;
     background-color: rgba(255, 255, 255, .75);
 }
 
-.calculator-grid > button:hover {
+.calculator-grid>button:hover {
     background-color: rgba(255, 255, 255, .90);
 }
 
@@ -38,12 +40,12 @@ body {
 .output {
     grid-column: 1 / -1;
     background-color: rgba(0, 0, 0, .75);
-    display:flex;
+    display: flex;
     align-items: flex-end;
     justify-content: space-around;
     flex-direction: column;
     padding: 10px;
-    word-wrap:break-word;
+    word-wrap: break-word;
     word-break: break-all;
 }
 
@@ -56,5 +58,3 @@ body {
     color: white;
     font-size: 2.5rem;
 }
-
-
